@@ -1,0 +1,7 @@
+{
+  "extends": "../tsconfig.json",
+  "angularCompilerOptions": {
+    "preserveWhitespaces": false,
+    "fullTemplateTypeCheck": true
+  }
+}
